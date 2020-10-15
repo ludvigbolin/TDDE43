@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Laboration 1.2</string>
+    <string name="namn">Namn</string>
+    <string name="lösenord">Lösenord</string>
+    <string name="Email">Email</string>
+    <string name="Ålder">Ålder</string>
+    <string name="Laboration12">Laboration1.2</string>
+
+
+</resources>
